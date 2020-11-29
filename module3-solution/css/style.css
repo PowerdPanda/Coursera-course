@@ -1,0 +1,55 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.navbar-brand {
+  padding-top: 15px;
+}
+
+.navbar-brand h1 { 
+  color: #000000;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#header-nav {
+  background-color: #585858;
+  border-radius: 0;
+  border: 0;
+  width: 100%;
+}
+
+ul{
+	background-color: white;
+}
+li{
+		text-align: center;
+	}
+
+a:link , a:hover{
+	text-decoration: none;
+}
+
+h2{
+	color: #000000;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+h3{
+	color: #000000;
+	text-align: center;
+}
+p{
+	color: #000000;
+}
+
+.jumbotron{
+	background-color: #585858;
+}
+
+@media (max-width: 767px) {
+
+}
